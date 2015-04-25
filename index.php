@@ -26,8 +26,8 @@
 		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400' rel='stylesheet' type='text/css'>
-		<link href="css/animate.css" rel="stylesheet">
-		<link href="css/style.css" rel="stylesheet">
+		<link href="http://static.baixeshows.com.br/css/animate.min.css" rel="stylesheet">
+		<link href="http://static.baixeshows.com.br/css/style.min.css" rel="stylesheet">
 
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -73,7 +73,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                     <div class="brand-heading">
-                        <img class="img-responsive img-center" src="img/logo-bs.png" height="167" width="315" alt="">
+                        <img class="img-responsive img-center" src="http://static.baixeshows.com.br/img/logo-bs.png" height="167" width="315" alt="">
                     </div>
                         <p class="intro-text">Uma nova maneira de<br> Baixar e ouvir Música!</p>
                         <a href="#sobre" class="btn btn-circle page-scroll">
