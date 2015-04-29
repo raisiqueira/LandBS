@@ -1,25 +1,34 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" itemscope itemtype="https://schema.org/WebPage">
 	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="shortcut icon" href="http://static.baixeshows.com.br/img/favicon.ico" type="image/ico"/>
-		<title>Baixe Shows</title>
-		<!-- SEO Tags -->
-		<meta name="description" content="Uma nova maneira de ouvir e Baixar Música">
-		<meta name="keywords" content="baixe shows, baixeshows, baixe shows .com . br, shows de forró, download forró, bandas, banda de forró, gustavo moura e Rafael, gustavo moura, rafael, aviões, aviões do forró, bonde do forró, shows ao vivo, encantus, cavaleiros do forró, cavalo de pau, caviar com rapadura, cheiro de menina, desejo de menina, ferro na boneca, forró de farra, forró do movimento, forró do muído, forró dos plays, forró de salto, forró das minas, forró pegado, forró real, forró torpedo,banda torpedo, forró da pegação, forró na farra, gabriel diniz, garota safada, gaviões do forró, gatinha manhosa, limão com mel, magníficos, mastruz com leite, mel com terra, moleca 100 vergonha, moleca sem vergonha, mala 100 alça, mala sem alça, saia rodada, wesley safadão, wesley oliveira, gd magic, gd 360, vibe surreal, setanejo">
-		<link rel="canonical" href="https://baixeshows.com.br"/>
-		<link rel="publisher" href="https://plus.google.com/+RaiSiqueira"/>
-		<meta property="og:locale" content="en_US"/>
-		<meta property="og:type" content="website"/>
-		<meta property="og:title" content="Baixe Shows - Uma nova Maneira de baixar Música"/>
-		<meta property="og:description" content="Uma Nova Maneira de Baixar Música"/>
-		<meta property="og:url" content="https://baixeshows.com.br"/>
-		<meta property="og:site_name" content="baixeshows"/>
-		<meta property="article:publisher" content="http://facebook.com/BaixeShows"/>
-		<meta property="fb:admins" content="100001023664040"/>
-		<meta property="og:image" content="http://static.baixeshows.com.br/img/fb.png"/>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="http://static.baixeshows.com.br/img/favicon.ico" type="image/ico"/>
+<title>Baixe Shows</title>
+<!-- SEO Tags -->
+<meta name="description" content="Uma nova maneira de ouvir e Baixar Música. Download de músicas ilimitados">
+<meta name="robots" content="index, follow"/>
+
+<link rel="author" href="https://plus.google.com/+RaiSiqueira/posts"/>
+<link rel="publisher" href="https://plus.google.com/109152845173764696499/posts"/>
+<link rel="canonical" href="https://baixeshows.com.br"/>
+
+<meta itemprop="name" content="Baixe Shows - Uma nova maneira de ouvir e baixar Música"/>
+<meta itemprop="description" content="Crie playlists, navegue pelos seus Shows favoritos, e baixe música ilimitado"/>
+<meta itemprop="image" content="http://static.baixeshows.com.br/img/seo-bs.png"/>
+<meta itemprop="url" content="http://www.baixeshows.com.br"/>
+
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Baixe Shows - Uma nova Maneira de baixar Música"/>
+<meta property="og:site_name" content="Baixe Shows"/>
+<meta property="og:url" content="https://baixeshows.com.br"/>
+<meta property="og:description" content="Crie playlists, navegue pelos seus Shows favoritos, e baixe música ilimitado"/>
+<meta property="fb:app_id" content="100001023664040"/>
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:image" content="http://static.baixeshows.com.br/img/fb.png"/>
+<meta property="article:author" content="https://www.facebook.com/raaisiqueira"/>
+<meta property="article:publisher" content="http://facebook.com/BaixeShows"/>
 
 
 		<!-- Site CSS -->
