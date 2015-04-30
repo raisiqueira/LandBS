@@ -186,9 +186,6 @@ a:focus {
     font-size: 18px;
     font-weight: 200;
 }
-.intro .intro-body .img-center{
-	margin: 0 0 30px 220px;
-}
 @media(min-width:768px) {
     .intro {
         height: 100%;
