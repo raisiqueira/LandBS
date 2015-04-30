@@ -83,7 +83,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                     <div class="brand-heading">
-                        <img class="img-responsive center-block" src="http://static.baixeshows.com.br/img/logo-bs.png" height="167" width="315" alt="">
+                        <img class="img-responsive center-block" src="http://static.baixeshows.com.br/img/logo-bs.png" alt="">
                     </div>
                         <p class="intro-text">Uma nova maneira de<br> Baixar e ouvir Música!</p>
                         <a href="#sobre" class="btn btn-circle page-scroll">
