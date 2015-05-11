@@ -5,6 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#ea2f4a">
+<meta name="google-site-verification" content="RHWjlSe4qXayPEbRfxN-JhvShRNjBmWX0ekc7E3tCl4" />
 <link rel="shortcut icon" href="http://static.baixeshows.com.br/img/favicon.ico" type="image/ico"/>
 <title>Baixe Shows</title>
 <!-- SEO Tags -->
